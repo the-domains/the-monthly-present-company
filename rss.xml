@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the monthly present company]]></title>
+        <description><![CDATA[the monthly present company]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 23:44:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The gift that keeps giving.  For the perfect present, buy someone special a monthly present.</p>]]></description>
+            <link>undefined02c0f2cc-79ce-4b67-b7e8-ad5d3dd244f1/index.html</link>
+            <guid isPermaLink="false">02c0f2cc-79ce-4b67-b7e8-ad5d3dd244f1</guid>
+            <pubDate>Thu, 03 Mar 2016 23:43:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
