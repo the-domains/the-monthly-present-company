@@ -1,0 +1,28 @@
+name: the monthly present company
+favicon: null
+layout_spectrum: 0.39068940724246204
+typography_spectrum: 0.17378194420598447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3549694698303938
+  lightness: 0.3277338028419763
+  saturation: 0.6776814698241651
+  rhythmicContrast: 0.21631659171544015
+purpose: []
